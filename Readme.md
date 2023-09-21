@@ -55,4 +55,4 @@ Cabin: Cabin number
 Embarked: Port of embarkation	(C = Cherbourg, Q = Queenstown, S = Southampton)
 
 Dataset : https://www.kaggle.com/datasets/rahulsah06/titanic                                                                                   
-Solution : 
+Solution : https://github.com/SrijanSadhu/Bharat_Intern_Task/blob/main/Task_2/Task2%20Titanic%20Classification.ipynb
