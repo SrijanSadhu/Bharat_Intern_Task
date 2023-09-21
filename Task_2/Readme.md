@@ -1,7 +1,7 @@
 
-**DATA SCIENCE INTERN @BHARAT INTERN
+DATA SCIENCE INTERN @BHARAT INTERN
 
-AUTHOR : Srijan Sadhu**
+AUTHOR : Srijan Sadhu
 
 TASK 2 : TITANIC CLASSIFICATION - Algorithm which tells whether the person will be save from sinking or not
 
